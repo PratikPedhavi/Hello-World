@@ -1,4 +1,6 @@
 # Digit-Recogniser
+
+##Neural Network Fully Connected
 Starting Small <br>
 An easiest model inspired from the Tensorflow tutorial of Deep Learning Specialisation of Prof. Andrew Ng. <br>
 The initial model had Layer 1 of 20 nodes, Layer 2 of 10 nodes followed by softmax layer of 5 nodes. <br>
